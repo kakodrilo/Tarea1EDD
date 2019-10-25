@@ -1,0 +1,11 @@
+Joaquín Castillo 201773520-1 paralelo 200 
+ Problema 1: Extracción y almacenamiento de datos en memoria dinámica
+ Problema 2: Extracción y almacenamiento de datos en memoria dinámica
+
+Rodrigo Orellana 201773522-8 paralelo 202
+ Problema 1: Trabajo de datos
+ Problema 2: creación y escritura de archivos
+
+Axel Reyes 201773502-3 paralelo 200
+ Problema 1: Creación y escritura de archivos
+ Problema 2: Trabajo de datos
